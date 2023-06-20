@@ -1,8 +1,8 @@
 
-  # aha
+  # My Weather App
   
   
-  ![badge](https://img.shields.io/badge/license-apache-blue)
+  ![badge](https://img.shields.io/badge/license-mit-blue)
       
   
   ## Table-of-Contents
@@ -19,19 +19,19 @@
   
   ## [Description](#table-of-contents)
   
-  hahaa
+  My project is an app that tracks the weather in your area
   
-  ajsd
+  I created this project because I wanted something simple to track the weather in my area
   
-  nope
+  Anyone can use this to conveniently track the weather in their area.
   
   ## [Installation](#table-of-contents)
   
-  Bluh
+  Clone the Git hub repo here --- and then launch it in your local browser. Ensure you have proper api accesses.
   
   ## [Usage](#table-of-contents)
   
-  ajs
+  Instructions and Examples ...
   
   For more information on how to add screenshots for examples, visit the following website:
   
@@ -43,25 +43,27 @@
   The application is covered under the following license:
   
   
-  [apache](https://choosealicense.com/licenses/apache)
+  [mit](https://choosealicense.com/licenses/mit)
     
     
   
   ## [Contributing](#table-of-contents)
   
   
-  Thank you for your interest in helping out; however, I will not be accepting contributions from third parties.
+  Be Good at Coding!
       
   
   ## [Tests](#table-of-contents)
   
-  ajosgf
+  TDD
   
   ## [Questions](#table-of-contents)
   
   Please contact me using the following links:
   
-  [GitHub](https://github.com/aha)
+  [GitHub](https://github.com/JSterling56)
   
-  [Email: aha](mailto:aha)
+  [Email: jtsterlin@yahoo.com](mailto:jtsterlin@yahoo.com)
   
+
+

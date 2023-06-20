@@ -30,7 +30,7 @@ Usage:
  - Navigate to the project's root directory.
 
  - Run the application by typing the following command:
-node --experimental-modules index.js
+node --experimental-modules index.mjs
 
  - Follow the prompts displayed on the screen to provide information about your project.
 
@@ -45,6 +45,9 @@ For any inquiries or feedback, please feel free to reach out to me:
 GitHub: JSterling56
 Email: jtsterlin@yahoo.com
 I appreciate your interest in the Professional README Generator and hope you find it useful in creating comprehensive README files for your projects.
+
+Video Demonstration:
+https://drive.google.com/file/d/1-FFk_vlEZxUHqO24a1Nghv68jV33Ainq/view 
 
 This code is not mine. This code belongs to Mark Giannelli (mjgianneli) from github.
 I utilized ChatGPT for debugging.
